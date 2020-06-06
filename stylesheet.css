@@ -25,10 +25,10 @@ h2{
 	text-align: center;
 }
 
-#divtext{
+.divtext{
 	text-align: center;
 	font-style: italic;
-	font-weight:550;
+	font-weight:600;
 }
 
 button{
@@ -39,7 +39,7 @@ button{
 	box-shadow: 2px 2px #BFBFBF;
 	padding: 5px 10px;
 	border-radius: 10px;
-	font-weight: 550;
+	font-weight: 600;
 
 
 }
@@ -85,6 +85,6 @@ table{
 	box-shadow: 2px 2px #808080;
 	padding: 8px 12px;
 	border-radius: 10px;
-	font-weight: 550;
+	font-weight: 600;
 }
 
